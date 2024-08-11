@@ -52,4 +52,3 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 
 </body>
 </html>
-##this is login page
